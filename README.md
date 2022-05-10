@@ -1,4 +1,6 @@
-# Preview(<a href="https://6214916cfff7305328300614--expense-tracker-2-0.netlify.app/">Link</a>)
+**Screenshot of the Application**
+
+![screencapture-6214916cfff7305328300614-expense-tracker-2-0-netlify-app-2022-05-10-11_47_22](https://user-images.githubusercontent.com/61752151/167560875-93755d7b-b364-42cd-9c3c-83791a3f776b.jpg)
 
 # Getting Started with Create React App
 
