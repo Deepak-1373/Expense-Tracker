@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/61752151/173004900-6a244528-a17b-45d6-
 - Clone the repository on your local machine with the command below in your terminal, and cd into the **expense-tracker** folder
 
 ```sh
-[https://github.com/Deepak-1373/keeper-app.git](https://github.com/Deepak-1373/Expense-Tracker.git)
+https://github.com/Deepak-1373/Expense-Tracker.git
 
 cd expense-tracker
 ```
